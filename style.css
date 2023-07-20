@@ -1,0 +1,18 @@
+.title{
+	text-decoration: underline overline;
+	padding-top: 10px;
+}
+.picture{
+	width: 300px;
+	height: 300px;
+	border-radius: 100%;
+}
+.serviceItems, .resumeItems{
+	background-color: grey;
+	margin: 10px;
+}
+.serviceItems:hover, .resumeItems:hover{
+	background-color: white;
+	border-style: solid;
+	margin: 10px;
+}
